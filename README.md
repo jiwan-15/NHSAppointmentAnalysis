@@ -354,4 +354,4 @@ ORDER BY APPOINTMENT_MONTH;
 ## 👤 Author
 
 **Jiwan Gurung**
-* **LinkedIn:** [Jiwan Gurung](https://www.linkedin.com/in/jiwan-gurung-792088124/)# NHSAppointmentAnalysis
+* **LinkedIn:** [Jiwan Gurung](https://www.linkedin.com/in/jiwan-gurung-792088124/)
