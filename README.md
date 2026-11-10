@@ -53,7 +53,6 @@ The analysis covers:
 * **SQL**
 * **MySQL**
 * **MySQL Workbench**
-* **Tableau / Interactive Visualization**
 * **GitHub**
 
 ---
